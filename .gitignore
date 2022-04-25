@@ -1,0 +1,12 @@
+*.dll
+*.suo
+bin/
+obj/
+*.user
+*.v2
+*.db
+.env
+.vs/
+!/deploy/**/.env
+launchSettings.json
+.editorconfig
